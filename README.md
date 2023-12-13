@@ -61,6 +61,7 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
+![guassion method](https://github.com/pradeeprajeswari/Gaussian/assets/145743112/a1551cbd-1c66-4270-ac6e-2a0087fe7f61)
 
 
 ## Result:
